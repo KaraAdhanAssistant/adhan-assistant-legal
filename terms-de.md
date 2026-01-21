@@ -1,35 +1,22 @@
-# Nutzungsbedingungen – Adhan (Ezan) Assistant
+# Nutzungsbedingungen
 
-Stand: 2026-01-20
+Der Alexa Skill **KARA – Adhan (Ezan) Assistant** dient dazu, Gebetszeiten bereitzustellen, Erinnerungen einzurichten und religiöse Inhalte auszugeben.
 
-Mit der Nutzung des Alexa Skills „Adhan (Ezan) Assistant“ akzeptierst du diese Nutzungsbedingungen.
+## Zweck
 
-## Zweck des Skills
+Der Skill stellt Gebetszeiten, Gebetserinnerungen (optional mit Ezan) sowie kurze religiöse Erinnerungen (z. B. Hadithe) zu Inspirationszwecken bereit.
 
-Der Skill liefert Gebetszeiten, spielt auf Wunsch den Adhan ab und kann Erinnerungen für Gebetszeiten erstellen (nur mit erteilter Berechtigung).
+## Haftungsausschluss
 
-## Keine Garantie
+Die bereitgestellten Inhalte dienen ausschließlich Informations- und Inspirationszwecken und stellen **keine religiöse, rechtliche oder sonstige Beratung** dar.
 
-Gebetszeiten können je nach Standortdaten, Berechnungsmethode, Sommerzeit/Zeitzone und Datenquellen variieren. Der Skill wird „wie gesehen“ bereitgestellt – ohne Gewähr für vollständige Genauigkeit oder Verfügbarkeit.
-
-## Berechtigungen
-
-- Ohne die Berechtigung „Erinnerungen“ kann der Skill keine Erinnerungen anlegen.
-- Die Geräteadresse wird nur genutzt, wenn du die Berechtigung erteilst, um Standortdaten automatisch zu erkennen.
-
-## Kosten
-
-Der Skill ist kostenlos. Es gibt keine In-App-Käufe.
-
-## Haftung
-
-Soweit gesetzlich zulässig, übernimmt der Anbieter keine Haftung für Schäden, die aus der Nutzung des Skills entstehen.
+Es wird keine Gewähr für die Richtigkeit, Vollständigkeit oder Aktualität der Inhalte übernommen.
 
 ## Änderungen
 
-Diese Nutzungsbedingungen können aktualisiert werden. Die jeweils aktuelle Version ist über die veröffentlichte URL abrufbar.
+Der Funktionsumfang des Skills kann jederzeit angepasst oder erweitert werden.
 
 ## Kontakt
 
-KARA – Adhan (Ezan) Assistant
-Email: kara.adhan.assistant@gmail.com
+**KARA – Adhan (Ezan) Assistant**
+Email: **kara.adhan.assistant@gmail.com**
