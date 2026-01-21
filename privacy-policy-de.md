@@ -1,55 +1,38 @@
-# Datenschutzerklärung – Adhan (Ezan) Assistant
+# Datenschutzerklärung
 
-Stand: 2026-01-20
-
-Diese Datenschutzerklärung beschreibt, wie der Alexa Skill „Adhan (Ezan) Assistant“ Daten verarbeitet.
+Diese Alexa Skill Datenschutzerklärung beschreibt, wie der Skill **KARA – Adhan (Ezan) Assistant** Daten verarbeitet.
 
 ## Welche Daten werden verarbeitet?
 
-Der Skill verarbeitet – je nach Nutzung und erteilten Berechtigungen – folgende Daten:
+Der Skill speichert ausschließlich die für die Funktion notwendigen Einstellungen:
 
-1. **Geräte-Adresse (optional, nur mit Berechtigung)**
-   - Wenn du die Berechtigung „Geräteadresse (voll)“ erteilst, kann der Skill dein Land und ggf. deine Stadt automatisch erkennen, um Gebetszeiten korrekt zu berechnen.
+- ausgewählte Sprache
+- Land und Stadt
+- Berechnungsmethode für Gebetszeiten
+- Einstellungen für Gebetserinnerungen (z. B. mit oder ohne Ezan)
 
-2. **Erinnerungen (optional, nur mit Berechtigung)**
-   - Wenn du die Berechtigung für „Erinnerungen“ erteilst, kann der Skill Gebetszeit-Erinnerungen erstellen, aktualisieren oder entfernen.
-   - Ohne diese Berechtigung kann der Skill **keine** Erinnerungen anlegen.
+Diese Daten werden gespeichert, um die Gebetszeiten korrekt berechnen und Erinnerungen bereitstellen zu können.
 
-3. **Skill-Einstellungen (Konfiguration)**
-   - Der Skill speichert Einstellungen wie Sprache, Land, Stadt, Gebetsmethode und ggf. Optionen zur Erinnerung (z.B. ob Adhan-Text oder kurzer Hinweis gesprochen wird), damit du sie nicht jedes Mal neu eingeben musst.
-
-4. **Technische Nutzungsdaten**
-   - Amazon kann technische Protokolldaten bereitstellen (z.B. Zeitpunkte von Aufrufen, Fehlercodes). Diese Daten werden vom Skill-Entwickler nur genutzt, um Fehler zu beheben und die Funktion zu verbessern.
-
-## Wofür werden die Daten genutzt?
-
-- Berechnung und Ausgabe der Gebetszeiten
-- Erstellung/Verwaltung von Gebetszeit-Erinnerungen (nur mit Erlaubnis)
-- Personalisierung nach deinen Einstellungen (Sprache, Land, Stadt, Methode)
-- Fehleranalyse und Stabilität des Skills
+Der Skill verarbeitet **keine** sensiblen personenbezogenen Daten wie Name, genaue Adresse, Gesundheitsdaten oder religiöse Profile.
 
 ## Werden Daten an Dritte weitergegeben?
 
-- **Amazon Alexa** verarbeitet Anfragen und verwaltet Berechtigungen (z.B. Adresse, Erinnerungen).
-- Für Gebetszeiten kann der Skill eine **Gebetszeiten-API** verwenden (z.B. um Zeiten für deine Stadt zu ermitteln). Dabei werden nur die notwendigen Angaben (z.B. Stadt/Land, Methode, Datum) übermittelt.
-- Es findet **kein Verkauf** deiner Daten statt.
+- Für religiöse Inhalte (z. B. Hadithe) kann der Skill öffentliche APIs nutzen, die Hadith-Texte bereitstellen.
+- Für Übersetzungen (z. B. Deutsch oder Türkisch) kann ein externer Übersetzungsdienst verwendet werden.
+- Dabei werden **keine personenbezogenen Daten**, sondern ausschließlich der jeweilige Text zur Verarbeitung übermittelt.
 
-## Speicherung und Aufbewahrung
+Es erfolgt **keine Weitergabe personenbezogener Daten** an Dritte zu Werbezwecken.
 
-- Skill-Einstellungen werden gespeichert, solange du den Skill nutzt oder bis du sie zurücksetzt.
-- Erinnerungen liegen in deinem Amazon-Konto und können von dir jederzeit entfernt werden.
-- Du kannst die Einstellungen über den Skill zurücksetzen oder den Skill deaktivieren/entfernen.
+## Speicherung und Löschung
 
-## Deine Wahlmöglichkeiten
+Gespeicherte Einstellungen bleiben erhalten, bis der Nutzer:
 
-- Du kannst Berechtigungen in der Alexa App jederzeit entziehen:
-  - Geräteadresse (voll)
-  - Erinnerungen
-- Du kannst alle Erinnerungen über den Skill entfernen oder über die Alexa App verwalten.
+- die Gebetserinnerungen löscht oder
+- den Skill zurücksetzt bzw. deinstalliert.
 
 ## Kontakt
 
 Wenn du Fragen zum Datenschutz hast, kontaktiere:
 Contact:
-KARA – Adhan (Ezan) Assistant
-Email: kara.adhan.assistant@gmail.com
+**KARA – Adhan (Ezan) Assistant**
+Email: **kara.adhan.assistant@gmail.com**
