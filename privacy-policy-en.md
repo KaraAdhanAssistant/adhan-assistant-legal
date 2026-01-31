@@ -1,37 +1,92 @@
 # Privacy Policy
 
-This Alexa Skill Privacy Policy describes how **KARA – Adhan (Ezan) Assistant** handles user data.
+This Privacy Policy explains how the Alexa skill **Adhan Assistant** processes data.
 
-## What data is processed?
+---
 
-The skill stores only the information necessary for its functionality:
+## 1. What data is processed?
 
-- selected language
-- country and city
-- prayer time calculation method
-- prayer reminder preferences (e.g. with or without Adhan)
+The skill processes and stores only the data that is necessary for its functionality. This includes:
 
-This data is used solely to calculate prayer times and provide reminders.
+- selected language  
+- country and city  
+- selected prayer calculation method  
+- prayer reminder settings (for example, with or without spoken Adhan/Ezan)
 
-The skill does **not** process sensitive personal data such as name, precise address, health data, or religious profiles.
+This data is used solely to calculate prayer times correctly and to provide automatic reminders.
 
-## Is data shared with third parties?
+The skill does **not** process sensitive personal data such as name, email address, phone number, full street address, health data, or detailed user profiles.  
+No personal or religious profiling is performed.
 
-- The skill may use public APIs to retrieve religious content such as Hadith texts.
-- Translation services may be used to translate content into supported languages.
-- Only text content is transmitted for processing. **No personal user data is shared.**
+---
 
-No personal data is shared with third parties for advertising or marketing purposes.
+## 2. Permissions and device information
 
-## Data retention and deletion
+The skill requires the following Alexa permissions for certain features:
 
-Stored settings remain until the user:
+- **Alexa Reminders**  
+  To create, update, and delete prayer time reminders.
 
-- removes prayer reminders, or
-- resets or disables the skill.
+- **Device Address (full)**  
+  To automatically determine country and city for prayer time calculation.
 
-## Contact
+The device address is used **only to identify country and city** and is **not stored as a full address** or shared with third parties.
 
-If you have questions regarding privacy, please contact:
-**KARA – Adhan (Ezan) Assistant**
+---
+
+## 3. External services (prayer times)
+
+To calculate prayer times, the skill may use the public prayer times API provided by **AlAdhan**:
+
+- https://api.aladhan.com/v1
+
+Only the information technically required for calculation is transmitted, such as:
+
+- country  
+- city  
+- selected prayer calculation method  
+- if required, date and time zone  
+
+No names, contact details, or full address information are transmitted to this service.
+
+---
+
+## 4. Religious content (Hadith)
+
+Hadith content is provided locally within the skill as **clear, meaningful paraphrases** based on classical Islamic teachings.
+
+- No external Hadith APIs are used.  
+- No translation services are used.  
+- No Hadith texts or religious content are transmitted to third parties.
+
+The content is intended solely for religious reminder purposes.
+
+---
+
+## 5. Is data shared with third parties?
+
+No.
+
+The skill does **not** use advertising, tracking, or analytics services.  
+Personal data is **not shared, sold, or used for advertising purposes**.
+
+---
+
+## 6. Data storage and deletion
+
+Stored settings remain available until the user:
+
+- deletes prayer reminders,  
+- reconfigures the settings within the skill, or  
+- disables or uninstalls the skill.
+
+After the skill is uninstalled, no further data is processed by the skill.
+
+---
+
+## 7. Contact
+
+If you have questions about this Privacy Policy or data processing, you can contact:
+
+**Adhan Assistant**  
 Email: **kara.adhan.assistant@gmail.com**
