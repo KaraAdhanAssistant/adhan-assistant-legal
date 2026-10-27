@@ -105,7 +105,6 @@ Der Skill wird auf **Amazon Web Services** gehostet:
 
 - **Lambda (EU-West-1, US-East-1, US-West-2):** Skill-Logik
 - **DynamoDB:** Speicherung der Nutzereinstellungen (Stadt, Land, Methode, Sprache)
-- **S3 (EU-West-1):** MP3-Dateien für Adhan/Ezan-Wiedergabe
 
 AWS verarbeitet Daten gemäß den [AWS Data Privacy](https://aws.amazon.com/de/compliance/data-privacy/) Richtlinien und fungiert als Auftragsverarbeiter im Sinne der DSGVO.
 

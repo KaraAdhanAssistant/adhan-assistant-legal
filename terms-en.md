@@ -18,7 +18,7 @@ The skill serves to provide prayer times, create automatic prayer reminders, and
 
 - **Prayer Times:** Display and query of prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha)
 - **Automatic Reminders:** Prayer reminders (optionally with spoken Adhan/Ezan via text-to-speech)
-- **MP3 Playback:** Adhan/Ezan playback on request (separate feature via voice command)
+- **Adhan on request:** Alexa recites the adhan on voice command
 - **Religious Reminders:** Output of short religious reminders (Hadith from recognized collections with source references, translated in meaning)
 - **Islamic Holidays:** Reminders for Ramadan (Suhoor, Iftar), Friday, and special Islamic nights
 
@@ -221,7 +221,7 @@ To use the skill, the following are required:
 
 ### 9.1 Copyright
 
-The skill's code and original texts are protected by copyright. The hadith texts are our own translations of the meaning. The audio recording (MP3 Adhan) is subject to the rights of its rights holder.
+The skill's code and original texts are protected by copyright. The hadith texts are our own translations of the meaning.
 
 ### 9.2 Permitted Use
 

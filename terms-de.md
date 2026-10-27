@@ -18,7 +18,7 @@ Der Skill dient dazu, Gebetszeiten bereitzustellen, automatische Gebetserinnerun
 
 - **Gebetszeiten:** Anzeige und Abfrage von Gebetszeiten (Fajr, Dhuhr, Asr, Maghrib, Isha)
 - **Automatische Erinnerungen:** Gebetserinnerungen (optional mit gesprochenem Adhan/Ezan via Text-to-Speech)
-- **MP3-Wiedergabe:** Adhan/Ezan-Wiedergabe auf Anfrage (separate Funktion per Sprachbefehl)
+- **Ezan auf Anfrage:** Alexa spricht den Ezan auf Sprachbefehl
 - **Religiöse Erinnerungen:** Ausgabe kurzer religiöser Erinnerungen (Hadithe aus anerkannten Sammlungen mit Quellenangabe, sinngemäß übersetzt)
 - **Ramadan und islamische Tage:** Erinnerungen an Sahur, Imsak und Iftar (optional mit Iftar-Dua), Freitag und besondere islamische Tage und Nächte
 
@@ -221,7 +221,7 @@ Zur Nutzung des Skills sind erforderlich:
 
 ### 9.1 Urheberrecht
 
-Code und eigene Texte des Skills sind urheberrechtlich geschützt. Die Hadith-Übersetzungen sind eigene Übersetzungen der Bedeutung. Die Audioaufnahme (MP3-Adhan) unterliegt den Rechten ihres Rechteinhabers.
+Code und eigene Texte des Skills sind urheberrechtlich geschützt. Die Hadith-Übersetzungen sind eigene Übersetzungen der Bedeutung.
 
 ### 9.2 Erlaubte Nutzung
 
